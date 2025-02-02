@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Java Developer<br>📚 Computer Science student<br>🗯 Inspired to become a Full-Stack Developer
+👩‍💻 Java Developer<br>📚 Computer Science Degree<br>🗯 Inspired to become a Full-Stack Developer
 
 
 ## 🌐 Socials:
